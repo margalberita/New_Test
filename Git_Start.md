@@ -2,6 +2,9 @@
 
 ## Установка Git и Visual Studio Code
 
+1. **Установка Git для Windows, MAC, Linux:** https://git-scm.com/downloads
+2. **Установка VSCode для Windows, MAC, Linux:** https://code.visualstudio.com/Download
+
 ## Основные команды Git
 
 * ***git init*** - инициализация локального репозитория.
