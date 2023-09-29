@@ -1,6 +1,8 @@
 # Мое руководство по работе с Git
 
-## Установка Git и Visual Studio Code
+## Семинар 1
+
+### Установка Git и Visual Studio Code
 
 1. **Установка Git для Windows, MAC, Linux:** https://git-scm.com/downloads
 2. **Установка VSCode для Windows, MAC, Linux:** https://code.visualstudio.com/Download
@@ -10,7 +12,7 @@
 *  ***config --global user.name "Ваше имя английскими буквами"***
 *  ***config --global user.email "Ваша почта@example.com"***
 
-## Основные команды Git
+### Основные команды Git
 
 * ***git init*** - инициализация локального репозитория.
 * ***git status*** - получить информацию от git о его текущем состоянии.
@@ -20,3 +22,5 @@
 * ***git checkout*** – переход от одного коммита к другому.
 * ***git checkout master*** – вернуться к актуальному состоянию и продолжить работу.
 * ***git diff*** – увидеть разницу между текущим файлом и закоммиченным файлом.
+
+## Семинар 2
