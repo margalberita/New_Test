@@ -34,3 +34,4 @@ git branch -d name - удаление ветки.
 git log --graph - ветка коммитов.
 git checkout branch.name - переход на определенную ветку.
 git version - проверка установки.
+clear - очищение терминала.
