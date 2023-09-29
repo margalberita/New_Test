@@ -5,6 +5,11 @@
 1. **Установка Git для Windows, MAC, Linux:** https://git-scm.com/downloads
 2. **Установка VSCode для Windows, MAC, Linux:** https://code.visualstudio.com/Download
 
+*При первом использовании Git необходимо представиться. Для этого нужно ввести в терминале 2 команды:*
+
+*  ***config --global user.name "Ваше имя английскими буквами"***
+*  ***config --global user.email "Ваша почта@example.com"***
+
 ## Основные команды Git
 
 * ***git init*** - инициализация локального репозитория.
