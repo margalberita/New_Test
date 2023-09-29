@@ -32,3 +32,4 @@ git branch name - создать ветку.
 git merge - сливание веток с текущей веткой.
 git branch -d name - удаление ветки.
 git log --graph - ветка коммитов.
+git checkout branch.name - переход на определенную ветку.
