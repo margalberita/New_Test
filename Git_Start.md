@@ -28,3 +28,4 @@ git add - сохранить.
 
 git status - показывает состояние репозитория.
 git branch - вывод всех веток.
+git branch name - 
