@@ -30,3 +30,4 @@ git branch - вывод всех веток.
 git - контроль версий.
 git branch name - создать ветку.
 git merge - сливание веток с текущей веткой.
+git branch -d name - удаление ветки.
